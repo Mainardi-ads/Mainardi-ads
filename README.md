@@ -8,4 +8,4 @@
 - 💪🏼 I’m looking to collaborate on `Python community`;
 - 🤔 I’m looking for help with `Python development`;
 - 📫 How to reach me: mainardi.ads@gmail.com;
-- 🧐 Interests: `JavaScript`, `CSS`, `HTML`, `PHP`, `SQL` e `Python`. 
+- 🧐 Interests: `JavaScript`, `CSS`, `HTML`, `PHP`, `SQL` and `Python`. 
